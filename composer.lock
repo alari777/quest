@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "ba04a06f7de5b0248d6c094ef8c7dbb8",
+    "content-hash": "7efd1d733a38e18cb4c95676858d26bd",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "spaceweb/quest",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/swebru/quest.git",
+                "reference": "ad9be405ff945e9ac827533d2728a78a438dad4e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/swebru/quest/zipball/ad9be405ff945e9ac827533d2728a78a438dad4e",
+                "reference": "ad9be405ff945e9ac827533d2728a78a438dad4e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SpaceWeb\\Quest\\": "src/classes/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Denis Akulov",
+                    "email": "akulov.d.g@gmail.com"
+                }
+            ],
+            "description": "quest for interviewers",
+            "time": "2015-11-18 14:09:15"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "spaceweb/quest": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

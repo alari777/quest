@@ -1,0 +1,13 @@
+{
+    "name": "toivo/rusent",
+    "require-dev": {
+        "spaceweb/quest": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Toivo Ilmast",
+            "email": "alari777@gmail.com"
+        }
+    ],
+    "require": {}
+}
